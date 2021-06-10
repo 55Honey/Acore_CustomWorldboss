@@ -17,6 +17,10 @@ In short words, you become a contributor if you make one of the followings:
 
 Alternatively, you can get this module by donating 150$ to the AzerothCore organization. All the money donated to AzerothCore will be used to maintaining the infrastructure and support the community.
 
+## Player Usage:
+Be in a party or raid respectively. As the party/raid leader: Talk to the NPC. Go nuts!
+![image](https://user-images.githubusercontent.com/71938210/121604233-6f61c080-ca4a-11eb-8c71-70774a9881ad.png)
+
 ## Requirements:
 Compile your [Azerothcore](https://github.com/azerothcore/azerothcore-wotlk) with [Eluna Lua](https://www.azerothcore.org/catalogue-details.html?id=131435473).
 Requires at least commit b824e9d18683ecfa498279de8ed1e49c1bfd887d of the Eluna Engine submodule hence commit 81548013dc0748c1aeb15179fed6b7fe861b64bc from [mod-eluna-lua](https://github.com/azerothcore/mod-eluna-lua-engine).
@@ -32,10 +36,6 @@ Just from adding more config flags, you can add additional encounters. One examp
 ## GM Usage:
 Use `.startevent $event $difficulty` to start and spawn the NPC players can interact with. Use .stopevent to despawn it. 
 `.startevent 2 4` will start event 2 on difficulty 4. Increased difficulty decreases NPC spell timers. 
-
-## Player Usage:
-Be in a party or raid respectively. As the party/raid leader: Talk to the NPC. Go nuts!
-![image](https://user-images.githubusercontent.com/71938210/121604233-6f61c080-ca4a-11eb-8c71-70774a9881ad.png)
 
 ## Credits
 
