@@ -19,6 +19,13 @@ Alternatively, you can get this module by donating 150$ to the AzerothCore organ
 
 ## Player Usage:
 Be in a party or raid respectively. As the party/raid leader: Talk to the NPC. Go nuts!
+
+**[Video of a 5man encounter](https://www.twitch.tv/videos/1052264022)**
+
+**[Video of a raid encounter](https://www.twitch.tv/videos/1052269366)**
+
+![image](https://user-images.githubusercontent.com/71938210/121605986-a8e7fb00-ca4d-11eb-9327-04535a674bc5.png)
+
 ![image](https://user-images.githubusercontent.com/71938210/121604233-6f61c080-ca4a-11eb-8c71-70774a9881ad.png)
 
 ## Requirements:
