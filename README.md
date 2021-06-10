@@ -27,7 +27,7 @@ Adjust the top part of the .lua file with the config flags.
 
 ## Admin Usage:
 Adjust the config flags and IDs in the .lua and .sql in case of conflicts and run the associated SQL to add the required NPCs.
-Just from adding more config flags, you can add additional encounters.
+Just from adding more config flags, you can add additional encounters. One example encounter each, for 5man and 40man tuned for level 39 is already in the package.
 
 ## GM Usage:
 Use `.startevent $event $difficulty` to start and spawn the NPC players can interact with. Use .stopevent to despawn it. 
@@ -35,6 +35,7 @@ Use `.startevent $event $difficulty` to start and spawn the NPC players can inte
 
 ## Player Usage:
 Be in a party or raid respectively. As the party/raid leader: Talk to the NPC. Go nuts!
+![image](https://user-images.githubusercontent.com/71938210/121604233-6f61c080-ca4a-11eb-8c71-70774a9881ad.png)
 
 ## Credits
 
