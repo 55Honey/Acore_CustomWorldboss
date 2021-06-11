@@ -39,7 +39,8 @@ Adjust the top part of the .lua file with the config flags.
 ## Admin Usage:
 Adjust the config flags and IDs in the .lua and .sql in case of conflicts and run the associated SQL to add the required NPCs.
 Just from adding more config flags, you can add additional encounters. One example encounter each, for 5man and 40man tuned for level 39 is already in the package.
-![image](https://user-images.githubusercontent.com/71938210/121648776-26d0f400-ca98-11eb-9b59-e787956ec804.png)
+![image](https://user-images.githubusercontent.com/71938210/121671091-715d6b00-caae-11eb-994d-296ca5ad7856.png)
+
 
 
 ## GM Usage:
