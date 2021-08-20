@@ -1,6 +1,9 @@
 ## EventScripts
 Lua script for Azerothcore with ElunaLUA to spawn (custom) NPCs and grant them scripted combat abilities.
 
+## acore-cms support
+**[world-boss-rank](https://github.com/azerothcore/world-boss-rank)** is an open-source module for a website based on the **[AzerothAPI](https://github.com/AzerothJS/AzerothAPI)**.
+
 #### Find me on patreon: https://www.patreon.com/Honeys
 
 ## How to get this module?
@@ -45,7 +48,7 @@ Just from adding more config flags, you can add additional encounters. Two examp
 
 ## GM Usage:
 Use `.startevent $event $difficulty` to start and spawn the NPC players can interact with. Use .stopevent to despawn it. 
-`.startevent 2 4` will start event 2 on difficulty 4. Increased difficulty decreases NPC spell timers. 
+`.startevent 2 4` will start event 2 on difficulty 4. Increased difficulty decreases NPC spell timers and damage done by NPCs. 
 
 ## Credits
 
