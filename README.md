@@ -1,6 +1,9 @@
 ## EventScripts
 Lua script for Azerothcore with ElunaLUA to spawn (custom) NPCs and grant them scripted combat abilities.
 
+## acore-cms support
+**[world-boss-rank](https://github.com/azerothcore/world-boss-rank)** is an open-source module for a website based on the **[AzerothAPI](https://github.com/AzerothJS/AzerothAPI)**.
+
 #### Find me on patreon: https://www.patreon.com/Honeys
 
 ## How to get this module?
@@ -38,14 +41,16 @@ Adjust the top part of the .lua file with the config flags.
 
 ## Admin Usage:
 Adjust the config flags and IDs in the .lua and .sql in case of conflicts and run the associated SQL to add the required NPCs.
-Just from adding more config flags, you can add additional encounters. Four example encounters each, for 5man and 40man, tuned for level 39 or 49, are already in the package.
-![image](https://user-images.githubusercontent.com/71938210/121671091-715d6b00-caae-11eb-994d-296ca5ad7856.png)
+
+Just from adding more config flags, you can add additional encounters. Two example encounters each, for 5man and 40man tuned for level 39, as well as one encounter for 49 (again 40man and 5man) are already in the package.
+![grafik](https://user-images.githubusercontent.com/71938210/126485698-2f5f9f64-39f3-4b9d-a063-c1fd6ec08059.png)
+
 
 
 
 ## GM Usage:
 Use `.startevent $event $difficulty` to start and spawn the NPC players can interact with. Use .stopevent to despawn it. 
-`.startevent 2 4` will start event 2 on difficulty 4. Increased difficulty decreases NPC spell timers. 
+`.startevent 2 4` will start event 2 on difficulty 4. Increased difficulty decreases NPC spell timers and damage done by NPCs. 
 
 ## Credits
 
