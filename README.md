@@ -1,3 +1,5 @@
+## This repo served to showcase https://github.com/55Honey/Acore_eventScripts which got open-sourced meanwhile.
+
 ## EventScripts
 Lua script for Azerothcore with ElunaLUA to spawn (custom) NPCs and grant them scripted combat abilities.
 
